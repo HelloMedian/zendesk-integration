@@ -1,5 +1,8 @@
 {
   "name": "Median CoBrowse",
+  "short_description": " Launch Median CoBrowse sessions directly from Zendesk Chat",
+  "long_description": "Median CoBrowse enables your agents to see what your customers are doing on your website in realtime. Once Median has been installed, it's a snap to start a CoBrowsing session directly from Zendesk chat. With Median, you can collaborate with and delight your customers in realtime while resolving their questions faster.",
+  "installation_instructions": "To use this Zendesk Chat integration, you'll first need to sign up for a Median account and install Median's JavaScript snippet on your website. Once that's done, the Zendesk Chat integration will automatically start working, no extra steps required.",
   "author": {
     "name": "Median",
     "email": "friends@hellomedian.com",
