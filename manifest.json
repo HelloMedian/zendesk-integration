@@ -9,7 +9,7 @@
     "url": "https://hellomedian.com/"
   },
   "defaultLocale": "en",
-  "private": true,
+  "private": false,
   "location": {
     "chat": {
       "chat_sidebar": "assets/iframe.html"
